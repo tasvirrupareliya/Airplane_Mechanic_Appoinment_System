@@ -1,0 +1,14 @@
+C:\Users\Fenix\Desktop\mid-term\mid_term\bin\Debug\netcoreapp3.1\mid_term.exe
+C:\Users\Fenix\Desktop\mid-term\mid_term\bin\Debug\netcoreapp3.1\mid_term.deps.json
+C:\Users\Fenix\Desktop\mid-term\mid_term\bin\Debug\netcoreapp3.1\mid_term.runtimeconfig.json
+C:\Users\Fenix\Desktop\mid-term\mid_term\bin\Debug\netcoreapp3.1\mid_term.runtimeconfig.dev.json
+C:\Users\Fenix\Desktop\mid-term\mid_term\bin\Debug\netcoreapp3.1\mid_term.dll
+C:\Users\Fenix\Desktop\mid-term\mid_term\bin\Debug\netcoreapp3.1\mid_term.pdb
+C:\Users\Fenix\Desktop\mid-term\mid_term\obj\Debug\netcoreapp3.1\mid_term.csproj.AssemblyReference.cache
+C:\Users\Fenix\Desktop\mid-term\mid_term\obj\Debug\netcoreapp3.1\mid_term.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenix\Desktop\mid-term\mid_term\obj\Debug\netcoreapp3.1\mid_term.AssemblyInfoInputs.cache
+C:\Users\Fenix\Desktop\mid-term\mid_term\obj\Debug\netcoreapp3.1\mid_term.AssemblyInfo.cs
+C:\Users\Fenix\Desktop\mid-term\mid_term\obj\Debug\netcoreapp3.1\mid_term.csproj.CoreCompileInputs.cache
+C:\Users\Fenix\Desktop\mid-term\mid_term\obj\Debug\netcoreapp3.1\mid_term.dll
+C:\Users\Fenix\Desktop\mid-term\mid_term\obj\Debug\netcoreapp3.1\mid_term.pdb
+C:\Users\Fenix\Desktop\mid-term\mid_term\obj\Debug\netcoreapp3.1\mid_term.genruntimeconfig.cache
